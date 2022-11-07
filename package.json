@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "My first node project ",
   "main": "index.js",
+  "homepage": "https://github.com/tengine8000",
   "scripts": {
     "test": "npm run test",
     "start": "node server_time.js"
