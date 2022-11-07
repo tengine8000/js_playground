@@ -1,0 +1,22 @@
+{
+  "name": "myfirstnodeproject",
+  "version": "1.0.0",
+  "description": "My first node project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server_time.js"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "node",
+    "javascript"
+  ],
+  "author": "Emmanuel Torty torty.emmanuel@gmail.com https://github.com/tengine8000",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
